@@ -38,13 +38,6 @@
 
 <br><br>
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gohel21&show_icons=true&theme=radical&hide_border=true" height="180" alt="Mehul's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gohel21&layout=compact&theme=radical&hide_border=true" height="180" alt="Mehul's Top Langs" />
-</p>
-
 ### 🤝 Connect with Me
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mehul Gohel" /></a>
